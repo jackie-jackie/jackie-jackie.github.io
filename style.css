@@ -1,0 +1,24 @@
+html {
+	margin: auto 1rem;
+}
+
+body {
+	max-width: 920px;
+	margin: 0 auto;
+	color: white;
+	background-color: #242424;
+	font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: hotpink;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+dt {
+	margin: 0.5em 0;
+}
